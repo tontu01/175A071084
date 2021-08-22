@@ -1,0 +1,41 @@
+I. Import DB (có thể dùng navicat or phpmyadmin)
+
+II. - Cấu hình Virtual-Host trong xampp: 
+1. Edit file: C:\xampp\apache\conf\extra\httpd-vhosts.conf
+		Thêm code: 
+				<VirtualHost *:80>
+					DocumentRoot "C:/xampp/htdocs/tu-dien/public"
+					ServerName dev.tudienyhoc.jp
+				</VirtualHost>
+				
+2. Edit file: C:\Windows\System32\drivers\etc\host
+		Thêm code: 127.0.0.1        dev.tudienyhoc.jp
+
+3. Reset lại xampp 
+
+4. Chạy trên trình duyệt: dev.tudienyhoc.jp
+
+
+
+
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

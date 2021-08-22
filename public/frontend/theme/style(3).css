@@ -1,0 +1,70 @@
+/*
+Theme Name:     Newspaper 7 Child theme
+Theme URI: 		http://themeforest.net/user/tagDiv/portfolio
+Description:    Child theme made by tagDiv
+Author:         tagDiv
+Author URI: 	http://themeforest.net/user/tagDiv/portfolio
+Template:       Newspaper                             
+Version:        7.2c
+*/
+
+
+/*  ----------------------------------------------------------------------------
+    This file will load automatically when the child theme is active. You can use it
+    for custom CSS.
+*/
+.td_module_11 .item-details .td-module-title{font-size:22px !important;color:#777777 !important;}
+.td-module-title a:hover{color:#009b3a !important;}
+.td-read-more a{background-color:#079b48 !important;}
+.block-title{border-bottom:1px solid #1f3723 !important}
+.block-title span{background:#1c1c1c !important;color:#fff !important;}
+.widget_text .block-title span{font-size: 17px;  padding: 6px 10px;background:none !important;}
+.widget_text .block-title{border-bottom:0.5px solid #fff !important;}
+	
+.block-title a{background:#1c1c1c !important;}
+.td-social-style2 .td_social_type .td-social-box{border:1px solid #A7A5A5 !important;}
+.td_social_button a:hover{color:#009b3a !important;}
+.td_social_info_name:hover{color:#009b3a !important;}
+.td-admission{}
+.td-admission span{position: relative;  top: -12px;left:6px;}
+.td-next-prev-wrap a {border:1px solid #111;}
+.widget_text .textwidget p {margin-bottom:4px !important;}
+.widget_text .textwidget p a{}
+.td-admission span:hover{color:#009b3a !important;}
+.f3-footer p{width:100%;clear:both;}
+.f3-footer p a img{width:16px;}
+.f3-footer p a{background: #2f2f2f none repeat scroll 0 0 !important;  float: left;  margin-top: 4px;  padding: 4px 10px;  width: 100%;}
+.f3-footer p a:hover{background:#000 !important;color:#fff !important;}
+.f2-footer p a img,.f1-footer p a img{   position: relative;  top: 3px;  width: 16px;}
+.td-footer-wrapper {opacity:0.95}
+.td-footer-wrapper .td-container .td-pb-row .td-pb-span4 .widget .block-title{border-bottom:0.2px solid #fff !important;}
+.td-footer-wrapper .td-container .td-pb-row .td-pb-span4 .widget .block-title span{background:none !important;line-height:25px;}
+.td-arrow-list-left{float:left;}
+.td-arrow-list-right{float:right;}
+.td_module_mx10 .td-module-thumb a img{width:100% !important;}
+.td-header-style-1 .td-header-sp-logo {margin-top:43px !important;height:20px !important;}
+.td-post-small--box span{background:#009b3a !important;font-size:8px !important;}
+.td-post-small--box a{font-size:10px !important;}
+.td-post-small--box a:hover{background:none !important;color:#009b3a !important;}
+.td-header-style-1 .td-header-sp-recs {margin-top:2px !important;}
+.f1-footer p,.f2-footer p{margin-bottom:8px !important;}
+.eventon_events_list  div p a span span {font-size:14px !important;}
+.eventon_events_list .eventon_list_event p a span:hover{background:none !important;color:#009b3a !important;}
+.eventon_events_list .eventon_list_event p a span{color:#777!important;}
+.vc_message_box {border: 1px solid #009b3a !important;border-radius:0px !important;}
+.vc_message_box .vc_message_box-icon {background:#009b3a !important;}
+.wpb_wrapper p {text-align:justify}
+
+
+.td-header-style-10 .td-logo-wrap-full{ min-height: 85px !important;}
+.td-header-style-10 .td-logo-wrap-full .td-logo{line-height:120px !important}
+.td-retina-data{width:35% !important}
+
+.td_video_title{ font-family:Roboto slab !important;  font-weight: normal !important}
+.td_current_video_play_title_youtube{font-family:Roboto slab !important}
+.td-grid-style-4 .entry-title{background-color:009b3a !important}
+
+.td_module_mx1 .entry-title a{font-family:Roboto slab !important;  font-weight: normal !important}
+.td_block_trending_now .entry-title a, .td-theme-slider .td-module-title a, .td-big-grid-post .entry-title{font-family:Roboto slab !important;  font-weight: normal !important}
+.thumb--post .entry-thumb{width:100%;}
+.td-header-style-10 .td-header-top-menu-full { border-bottom: 1px solid #e0e0e0 !important;}
